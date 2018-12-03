@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		076B956921B4E01A0023C079 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076B956821B4E01A0023C079 /* AppDelegate.swift */; };
-		076B956B21B4E01A0023C079 /* CategoriesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076B956A21B4E01A0023C079 /* CategoriesVC.swift */; };
-		076B956E21B4E01A0023C079 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 076B956C21B4E01A0023C079 /* Main.storyboard */; };
-		076B957021B4E01B0023C079 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 076B956F21B4E01B0023C079 /* Assets.xcassets */; };
-		076B957321B4E01B0023C079 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 076B957121B4E01B0023C079 /* LaunchScreen.storyboard */; };
-		076B957E21B4FAF80023C079 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076B957D21B4FAF80023C079 /* CategoryCell.swift */; };
+		076B959121B522010023C079 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076B959021B522010023C079 /* AppDelegate.swift */; };
+		076B959321B522010023C079 /* CetegoriesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076B959221B522010023C079 /* CetegoriesVC.swift */; };
+		076B959621B522010023C079 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 076B959421B522010023C079 /* Main.storyboard */; };
+		076B959821B522020023C079 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 076B959721B522020023C079 /* Assets.xcassets */; };
+		076B959B21B522020023C079 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 076B959921B522020023C079 /* LaunchScreen.storyboard */; };
+		076B95A621B526810023C079 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076B95A521B526810023C079 /* CategoryCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		076B956521B4E01A0023C079 /* Code Swag Shop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Code Swag Shop.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		076B956821B4E01A0023C079 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		076B956A21B4E01A0023C079 /* CategoriesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesVC.swift; sourceTree = "<group>"; };
-		076B956D21B4E01A0023C079 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		076B956F21B4E01B0023C079 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		076B957221B4E01B0023C079 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		076B957421B4E01B0023C079 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		076B957D21B4FAF80023C079 /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
+		076B958D21B522010023C079 /* Code Swag Shop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Code Swag Shop.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		076B959021B522010023C079 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		076B959221B522010023C079 /* CetegoriesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CetegoriesVC.swift; sourceTree = "<group>"; };
+		076B959521B522010023C079 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		076B959721B522020023C079 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		076B959A21B522020023C079 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		076B959C21B522020023C079 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		076B95A521B526810023C079 /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		076B956221B4E01A0023C079 /* Frameworks */ = {
+		076B958A21B522010023C079 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,56 +37,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		076B955C21B4E01A0023C079 = {
+		076B958421B522010023C079 = {
 			isa = PBXGroup;
 			children = (
-				076B956721B4E01A0023C079 /* Code Swag Shop */,
-				076B956621B4E01A0023C079 /* Products */,
+				076B958F21B522010023C079 /* Code Swag Shop */,
+				076B958E21B522010023C079 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		076B956621B4E01A0023C079 /* Products */ = {
+		076B958E21B522010023C079 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				076B956521B4E01A0023C079 /* Code Swag Shop.app */,
+				076B958D21B522010023C079 /* Code Swag Shop.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		076B956721B4E01A0023C079 /* Code Swag Shop */ = {
+		076B958F21B522010023C079 /* Code Swag Shop */ = {
 			isa = PBXGroup;
 			children = (
-				076B957B21B4FA1E0023C079 /* Model */,
-				076B957C21B4FA260023C079 /* View */,
-				076B957A21B4FA140023C079 /* Controller */,
-				076B956C21B4E01A0023C079 /* Main.storyboard */,
-				076B956821B4E01A0023C079 /* AppDelegate.swift */,
-				076B956F21B4E01B0023C079 /* Assets.xcassets */,
-				076B957121B4E01B0023C079 /* LaunchScreen.storyboard */,
-				076B957421B4E01B0023C079 /* Info.plist */,
+				076B95A321B5260E0023C079 /* Model */,
+				076B95A421B526130023C079 /* View */,
+				076B95A221B526080023C079 /* Controller */,
+				076B959021B522010023C079 /* AppDelegate.swift */,
+				076B959421B522010023C079 /* Main.storyboard */,
+				076B959721B522020023C079 /* Assets.xcassets */,
+				076B959921B522020023C079 /* LaunchScreen.storyboard */,
+				076B959C21B522020023C079 /* Info.plist */,
 			);
 			path = "Code Swag Shop";
 			sourceTree = "<group>";
 		};
-		076B957A21B4FA140023C079 /* Controller */ = {
+		076B95A221B526080023C079 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				076B956A21B4E01A0023C079 /* CategoriesVC.swift */,
+				076B959221B522010023C079 /* CetegoriesVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
 		};
-		076B957B21B4FA1E0023C079 /* Model */ = {
+		076B95A321B5260E0023C079 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Model;
 			sourceTree = "<group>";
 		};
-		076B957C21B4FA260023C079 /* View */ = {
+		076B95A421B526130023C079 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				076B957D21B4FAF80023C079 /* CategoryCell.swift */,
+				076B95A521B526810023C079 /* CategoryCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -94,13 +94,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		076B956421B4E01A0023C079 /* Code Swag Shop */ = {
+		076B958C21B522010023C079 /* Code Swag Shop */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 076B957721B4E01B0023C079 /* Build configuration list for PBXNativeTarget "Code Swag Shop" */;
+			buildConfigurationList = 076B959F21B522020023C079 /* Build configuration list for PBXNativeTarget "Code Swag Shop" */;
 			buildPhases = (
-				076B956121B4E01A0023C079 /* Sources */,
-				076B956221B4E01A0023C079 /* Frameworks */,
-				076B956321B4E01A0023C079 /* Resources */,
+				076B958921B522010023C079 /* Sources */,
+				076B958A21B522010023C079 /* Frameworks */,
+				076B958B21B522010023C079 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -108,25 +108,25 @@
 			);
 			name = "Code Swag Shop";
 			productName = "Code Swag Shop";
-			productReference = 076B956521B4E01A0023C079 /* Code Swag Shop.app */;
+			productReference = 076B958D21B522010023C079 /* Code Swag Shop.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		076B955D21B4E01A0023C079 /* Project object */ = {
+		076B958521B522010023C079 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0940;
 				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = "Jeffrey Umandap";
 				TargetAttributes = {
-					076B956421B4E01A0023C079 = {
+					076B958C21B522010023C079 = {
 						CreatedOnToolsVersion = 9.4.1;
 					};
 				};
 			};
-			buildConfigurationList = 076B956021B4E01A0023C079 /* Build configuration list for PBXProject "Code Swag Shop" */;
+			buildConfigurationList = 076B958821B522010023C079 /* Build configuration list for PBXProject "Code Swag Shop" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -134,55 +134,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 076B955C21B4E01A0023C079;
-			productRefGroup = 076B956621B4E01A0023C079 /* Products */;
+			mainGroup = 076B958421B522010023C079;
+			productRefGroup = 076B958E21B522010023C079 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				076B956421B4E01A0023C079 /* Code Swag Shop */,
+				076B958C21B522010023C079 /* Code Swag Shop */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		076B956321B4E01A0023C079 /* Resources */ = {
+		076B958B21B522010023C079 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				076B957321B4E01B0023C079 /* LaunchScreen.storyboard in Resources */,
-				076B957021B4E01B0023C079 /* Assets.xcassets in Resources */,
-				076B956E21B4E01A0023C079 /* Main.storyboard in Resources */,
+				076B959B21B522020023C079 /* LaunchScreen.storyboard in Resources */,
+				076B959821B522020023C079 /* Assets.xcassets in Resources */,
+				076B959621B522010023C079 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		076B956121B4E01A0023C079 /* Sources */ = {
+		076B958921B522010023C079 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				076B956B21B4E01A0023C079 /* CategoriesVC.swift in Sources */,
-				076B956921B4E01A0023C079 /* AppDelegate.swift in Sources */,
-				076B957E21B4FAF80023C079 /* CategoryCell.swift in Sources */,
+				076B959321B522010023C079 /* CetegoriesVC.swift in Sources */,
+				076B959121B522010023C079 /* AppDelegate.swift in Sources */,
+				076B95A621B526810023C079 /* CategoryCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		076B956C21B4E01A0023C079 /* Main.storyboard */ = {
+		076B959421B522010023C079 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				076B956D21B4E01A0023C079 /* Base */,
+				076B959521B522010023C079 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		076B957121B4E01B0023C079 /* LaunchScreen.storyboard */ = {
+		076B959921B522020023C079 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				076B957221B4E01B0023C079 /* Base */,
+				076B959A21B522020023C079 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -190,7 +190,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		076B957521B4E01B0023C079 /* Debug */ = {
+		076B959D21B522020023C079 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -250,7 +250,7 @@
 			};
 			name = Debug;
 		};
-		076B957621B4E01B0023C079 /* Release */ = {
+		076B959E21B522020023C079 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -304,7 +304,7 @@
 			};
 			name = Release;
 		};
-		076B957821B4E01B0023C079 /* Debug */ = {
+		076B95A021B522020023C079 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -322,7 +322,7 @@
 			};
 			name = Debug;
 		};
-		076B957921B4E01B0023C079 /* Release */ = {
+		076B95A121B522020023C079 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -343,25 +343,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		076B956021B4E01A0023C079 /* Build configuration list for PBXProject "Code Swag Shop" */ = {
+		076B958821B522010023C079 /* Build configuration list for PBXProject "Code Swag Shop" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				076B957521B4E01B0023C079 /* Debug */,
-				076B957621B4E01B0023C079 /* Release */,
+				076B959D21B522020023C079 /* Debug */,
+				076B959E21B522020023C079 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		076B957721B4E01B0023C079 /* Build configuration list for PBXNativeTarget "Code Swag Shop" */ = {
+		076B959F21B522020023C079 /* Build configuration list for PBXNativeTarget "Code Swag Shop" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				076B957821B4E01B0023C079 /* Debug */,
-				076B957921B4E01B0023C079 /* Release */,
+				076B95A021B522020023C079 /* Debug */,
+				076B95A121B522020023C079 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 076B955D21B4E01A0023C079 /* Project object */;
+	rootObject = 076B958521B522010023C079 /* Project object */;
 }

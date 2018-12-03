@@ -1,5 +1,5 @@
 //
-//  CategoriesVC.swift
+//  CetegoriesVC.swift
 //  Code Swag Shop
 //
 //  Created by Jeffrey Umandap on 03/12/2018.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class CategoriesVC: UIViewController {
+class CetegoriesVC: UIViewController {
     
     @IBOutlet weak var categoryTable: UITableView!
     
